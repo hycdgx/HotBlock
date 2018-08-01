@@ -1,0 +1,21 @@
+#  _   _       _   ____  _            _
+# | | | | ___ | |_| __ )| | ___   ___| | __
+# | |_| |/ _ \| __|  _ \| |/ _ \ / __| |/ /
+# |  _  | (_) | |_| |_) | | (_) | (__|   <
+# |_| |_|\___/ \__|____/|_|\___/ \___|_|\_\
+#
+# (C) 2018 by surva network | https://github.com/survanetwork
+
+# English language
+
+# Status messages based on the ground
+ground:
+  safe: "§a你现在很安全!"
+  run: "§e避免靠近其他玩家"
+  poisoned: "§c你踩到了有毒的方块"
+
+# Messages on the HotBlock
+block:
+  lessplayers: "§6至少有§f{count} §6个玩家才能开始游戏"
+  move: "§e你现在站在 §l§cHot§6Block§r§e! §b赶紧远离！"
+  coins: "§b你得到了 §f{count} §b金币"
